@@ -44,3 +44,4 @@ C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Release\J
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Release\Jenkins_CSharp.csproj.GenerateResource.Cache
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Release\Jenkins_CSharp.dll
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Release\Jenkins_CSharp.pdb
+C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Release\Jenkins_CSharp.csprojResolveAssemblyReference.cache
