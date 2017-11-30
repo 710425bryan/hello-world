@@ -45,3 +45,4 @@ C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Debug\Jen
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Debug\Jenkins_CSharp.dll
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Debug\Jenkins_CSharp.pdb
 C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Debug\Jenkins_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\hello-world\Jenkins_CSharp\Jenkins_CSharp\obj\Debug\Jenkins_CSharp.csproj.CoreCompileInputs.cache
